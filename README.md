@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehiri Oussama  
+🚀 Senior Full-Stack Developer | MERN | DevOps | AI Enthusiast  
 
-<!--
-**OussamaMehiri/OussamaMehiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack  
+- 💻 **Frontend**: React.js, Next.js, Redux, Tailwind, TypeScript  
+- 🖥️ **Backend**: Node.js, Express.js, GraphQL, WebSockets  
+- 🗄️ **Database**: MongoDB, PostgreSQL, Redis  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mehiri-oussama)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=globe)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/-Email-yellow?style=flat&logo=gmail)](mailto:oussamamehiri@gmail.com)  
