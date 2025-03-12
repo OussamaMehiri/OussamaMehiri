@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mehiri Oussama  
-🚀 Senior Full-Stack Developer | MERN | DevOps | AI Enthusiast  
+🚀 Full-Stack Developer | MERN | DevOps | AI Enthusiast  
 
 ## 🛠 Tech Stack  
-- 💻 **Frontend**: React.js, Next.js, Redux, Tailwind, TypeScript  
-- 🖥️ **Backend**: Node.js, Express.js, GraphQL, WebSockets  
-- 🗄️ **Database**: MongoDB, PostgreSQL, Redis  
+- 💻 **Frontend**: React.js, Next.js, Tailwind, TypeScript  
+- 🖥️ **Backend**: Node.js, Express.js, Next.js
+- 🗄️ **Database**: MongoDB, PostgreSQL 
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mehiri-oussama)  
