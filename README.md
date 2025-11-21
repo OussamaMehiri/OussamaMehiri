@@ -109,23 +109,10 @@ I'm actively seeking **remote full-stack or JavaScript engineering roles** where
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or interesting tech conversations!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/oussamamehiri/)
-- 🌐 [Portfolio](https://oussama-mehiri.vercel.app/)
-- 📧 [Email](mailto:oussamamehiri@gmail.com)
-- 📱 WhatsApp: +213 698 36 2084
-
----
-
-⭐️ From [OussamaMehiri](https://github.com/OussamaMehiri)
-
----
-
-## ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamamehiri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oussama-mehiri.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamamehiri@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213698362084)
 
 ---
 
@@ -158,12 +145,6 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 - Passionate about performance & developer experience  
 - Coffee + TypeScript = perfect combo ☕💙  
 - Linux enthusiast 🐧  
-
----
-
-## 📱 WhatsApp (Clickable)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213698362084)
 
 ---
 
