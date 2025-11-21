@@ -161,14 +161,6 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 
 ---
 
-## ❤️ Support My Work
-
-If you enjoy my work, consider giving a ⭐ to my repositories!
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/OussamaMehiri)
-
----
-
 ## 📱 WhatsApp (Clickable)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213698362084)
