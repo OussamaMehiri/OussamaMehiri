@@ -119,3 +119,66 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 ---
 
 ⭐️ From [OussamaMehiri](https://github.com/OussamaMehiri)
+
+---
+
+## ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🧩 Currently Building
+
+[![My Work](https://github-readme-stats.vercel.app/api/pin/?username=OussamaMehiri&repo=POS-System&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/POS-System)
+[![My Work](https://github-readme-stats.vercel.app/api/pin/?username=OussamaMehiri&repo=Inventory-Management&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/Inventory-Management)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OussamaMehiri&theme=radical&hide_border=true)
+
+---
+
+## 💻 Tech Stack (Visual)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,mongodb,prisma,docker,linux,git,tailwind,vite,electron,figma" />
+</p>
+
+---
+
+## 🏆 Experience Timeline
+
+- **2025** – Building SaaS POS & Business Management Tools  
+- **2024** – Full-Stack Engineer (NestJS, Next.js, PostgreSQL)  
+- **2023** – React Native Applications  
+- **2022** – Started Full-Stack Development  
+
+---
+
+## 🎉 Fun Facts
+
+- I love building clean and scalable systems  
+- Passionate about performance & developer experience  
+- Coffee + TypeScript = perfect combo ☕💙  
+- Linux enthusiast 🐧  
+
+---
+
+## ❤️ Support My Work
+
+If you enjoy my work, consider giving a ⭐ to my repositories!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/OussamaMehiri)
+
+---
+
+## 📱 WhatsApp (Clickable)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213698362084)
+
+---
+
