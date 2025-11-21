@@ -22,7 +22,7 @@ I'm a software engineer specializing in building **scalable, production-ready ap
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,mongodb,prisma,docker,linux,git,tailwind,vite,electron,figma" />
 </p>
 
