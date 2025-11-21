@@ -131,8 +131,8 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 
 ## 🧩 Currently Building
 
-[![My Work](https://github-readme-stats.vercel.app/api/pin/?username=OussamaMehiri&repo=POS-System&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/POS-System)
-[![My Work](https://github-readme-stats.vercel.app/api/pin/?username=OussamaMehiri&repo=Inventory-Management&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/Inventory-Management)
+[![My Work](https://git-stats-nine-pink.vercel.app/api/pin/?username=OussamaMehiri&repo=POS-System&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/POS-System)
+[![My Work](https://git-stats-nine-pink.vercel.app/api/pin/?username=OussamaMehiri&repo=Inventory-Management&theme=radical&hide_border=true)](https://github.com/OussamaMehiri/Inventory-Management)
 
 ---
 
