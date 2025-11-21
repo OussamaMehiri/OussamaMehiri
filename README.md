@@ -22,6 +22,10 @@ I'm a software engineer specializing in building **scalable, production-ready ap
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,mongodb,prisma,docker,linux,git,tailwind,vite,electron,figma" />
+</p>
+
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -119,14 +123,6 @@ I'm actively seeking **remote full-stack or JavaScript engineering roles** where
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OussamaMehiri&theme=radical&hide_border=true)
-
----
-
-## 💻 Tech Stack (Visual)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,mongodb,prisma,docker,linux,git,tailwind,vite,electron,figma" />
-</p>
 
 ---
 
