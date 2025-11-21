@@ -83,9 +83,9 @@ Desktop application for warehouse operations
 
 ## 📊 GitHub Stats
 
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaMehiri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Oussama's GitHub Stats](https://git-stats-nine-pink.vercel.app/api?username=OussamaMehiri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaMehiri&layout=compact&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://git-stats-nine-pink.vercel.app//api/top-langs/?username=OussamaMehiri&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ---
 
