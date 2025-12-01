@@ -57,14 +57,6 @@ I'm a software engineer specializing in building **scalable, production-ready ap
 
 ---
 
-## 📊 GitHub Stats
-
-## ![Oussama's GitHub Stats](https://git-stats-nine-pink.vercel.app/api?username=OussamaMehiri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-## ![Top Languages](https://git-stats-nine-pink.vercel.app//api/top-langs/?username=OussamaMehiri&layout=compact&theme=radical&hide_border=true&count_private=true)
-
----
-
 ## 🌐 Languages
 
 - 🇩🇿 **Arabic** - Native
