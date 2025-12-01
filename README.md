@@ -63,16 +63,6 @@ I'm a software engineer specializing in building **scalable, production-ready ap
 
 ## ![Top Languages](https://git-stats-nine-pink.vercel.app//api/top-langs/?username=OussamaMehiri&layout=compact&theme=radical&hide_border=true&count_private=true)
 
-## ---
-
-## 🎯 What I'm Looking For
-
-I'm actively seeking **remote full-stack or JavaScript engineering roles** where I can:
-- Build scalable, production-grade applications
-- Work with modern tech stacks and best practices
-- Collaborate with talented teams on meaningful products
-- Contribute to open-source and innovative projects
-
 ---
 
 ## 🌐 Languages
@@ -83,27 +73,12 @@ I'm actively seeking **remote full-stack or JavaScript engineering roles** where
 
 ---
 
-## 📫 Let's Connect
+## 📫 You can Find me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamamehiri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oussama-mehiri.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamamehiri@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213698362084)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=OussamaMehiri&theme=radical&hide_border=true)
-
----
-
-## 🏆 Experience Timeline
-
-- **2025** – Building SaaS POS & Business Management Tools  
-- **2024** – Full-Stack Engineer (NestJS, Next.js, PostgreSQL)  
-- **2023** – React Native Applications  
-- **2022** – Started Full-Stack Development  
 
 ---
 
