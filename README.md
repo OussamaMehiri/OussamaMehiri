@@ -13,9 +13,7 @@
 I'm a software engineer specializing in building **scalable, production-ready applications** using modern JavaScript technologies. I transform ideas into clean, maintainable code that powers web, mobile, and desktop platforms.
 
 - 🔭 Currently working on full-stack applications with **NestJS** and **Next.js**
-- 💡 Experienced in building **POS systems**, **e-commerce platforms**, and **inventory management tools**
 - 🌱 Passionate about **clean architecture**, **system design**, and **developer experience**
-- 🎯 Seeking remote opportunities to contribute to impactful tech products
 - 📫 Reach me at: **oussamamehiri@gmail.com**
 
 ---
