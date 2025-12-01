@@ -54,35 +54,6 @@ I'm a software engineer specializing in building **scalable, production-ready ap
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![NX](https://img.shields.io/badge/NX-143055?style=flat-square&logo=nx&logoColor=white)
 
----
-
-## 💼 Featured Projects
-
-### 🖥️ **POS System** (Electron + React + SQLite)
-Enterprise-grade point-of-sale system with offline-first architecture
-- Real-time billing & inventory tracking
-- Barcode scanning & multi-store support
-- Role-based access control & debt management
-- IPC communication with optimized SQLite queries
-
-### 🛒 **E-Commerce Platform** (NestJS + Next.js + PostgreSQL)
-Full-featured online store with payment integration
-- JWT authentication & role management
-- Shopping cart & checkout flow
-- Payment gateway integration (BaridiMob/Edahabia)
-- Deployed on Hetzner with Nginx
-
-### 📱 **Mobile Services Platform** (React Native + NestJS)
-On-demand service marketplace connecting customers & providers
-- User authentication & profile management
-- Badge system & push notifications
-- RESTful API with PostgreSQL backend
-
-### 📦 **Inventory Management System** (Tauri/Electron + Next.js)
-Desktop application for warehouse operations
-- CRUD for products, categories, suppliers
-- Real-time synchronization
-- Stock alerts & reporting
 
 ---
 
